@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: "https://github.com/SangkyuStat/sangkyu.github.io"
 languageCode: en-us
 title: A Hugo website
 theme: hugo-lithium
