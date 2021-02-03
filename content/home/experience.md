@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Experiences
 subtitle:
 
 # Date format for experience
@@ -22,24 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Graduate Research Assistant
+    company: Institute for Health Policy - Michigan State University
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: East Lansing
+    date_start: '2019-10-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Projects topics include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * COVID 19 data analysis
+        * Opioid abuse
         
-  - title: Professor
-    company: University X
+  - title: Graduate Teaching Assistant
+    company: Department of Statistics and Probability - Michigan State University
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: East Lansing
+    date_start: '2019-08-31'
+    date_end: '2019-12-31'
+    description: Taught the elementary Statistics courses
 ---
