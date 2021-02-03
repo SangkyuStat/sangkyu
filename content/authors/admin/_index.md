@@ -3,25 +3,25 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Statistics
+    institution: Michigan State University
+    year: Current
+  - course: MA in Statistics
+    institution: Konkuk University
+    year: 2019
+  - course: BA in Applied Statistics
+    institution: Konkuk University
+    year: 2017
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- High-dimensional data analysis
+- Survival Analysis
 organizations:
-- name: Stanford University
+- name: Michigan State University
   url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,7 +42,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Sang Kyu Lee
 ---
 
 I am a PhD student in Statistics. My research interests include machine learning, survival data analysis and longitudinal data analysis. I got B.A and M.A. from Konkuk University, South Korea.
