@@ -3,13 +3,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Statistics
+  - course: Ph.D. in Statistics
     institution: Michigan State University
     year: Current
-  - course: MA in Statistics
+  - course: M.A. in Statistics
     institution: Konkuk University
     year: 2019
-  - course: BA in Applied Statistics
+  - course: B.A. in Applied Statistics
     institution: Konkuk University
     year: 2017
 email: ""
