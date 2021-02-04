@@ -1,7 +1,7 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
+widget: experiences
 
 # This file represents a page section.
 headless: true
@@ -29,16 +29,19 @@ experience:
     date_start: '2019-10-01'
     date_end: ''
     description: |2-
-        Projects topics include:
+        Projects (Data analyses) topics include:
         
-        * COVID 19 data analysis
-        * Opioid abuse
+        * COVID-19
+        * Opioid abusement
+        * Medicaid
         
   - title: Graduate Teaching Assistant
     company: Department of Statistics and Probability - Michigan State University
     company_url: ''
     location: East Lansing
     date_start: '2019-08-31'
-    date_end: '2019-12-31'
-    description: Taught the elementary Statistics courses
+    date_end: '2020-12-31'
+    description: |1-
+        * Taught the elementary Statistics course (STT 200)
+        * Graded the upper level Statistics courses
 ---
