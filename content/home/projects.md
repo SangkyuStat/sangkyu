@@ -27,10 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Sample selection
-    tag: Sample selection
-  - name: EM algorithm
-    tag: EM algorithm
+  - name: R
+    tag: R
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
