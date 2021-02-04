@@ -38,4 +38,4 @@ title: Sang Kyu Lee
 I am a PhD student in Statistics. My research interests include machine learning, survival data analysis and longitudinal data analysis. I got B.A and M.A. from Konkuk University, South Korea.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
