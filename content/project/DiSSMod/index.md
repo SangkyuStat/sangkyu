@@ -8,5 +8,5 @@ summary: An R package for fitting Sample Selection models for discrete response 
 tags:
 - R
 - Sample selection
-title: DiSSMod: Fitting Sample Selection Models for Discrete Response Variables
+title: DiSSMod - Fitting Sample Selection Models for Discrete Response Variables
 ---

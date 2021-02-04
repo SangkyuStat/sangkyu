@@ -7,5 +7,5 @@ image:
 summary: An R package for fitting Sample Selection models for discrete response variables
 tags:
 - R
-title: EMSS: Fitting Sample Selection Models for Discrete Response Variables
+title: EMSS - Fitting Sample Selection Models for Discrete Response Variables
 ---
