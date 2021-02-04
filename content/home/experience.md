@@ -42,8 +42,7 @@ experience:
     date_start: '2019-08-31'
     date_end: '2020-12-31'
     description: |2-
-        Details:
-        
+    
         * Taught the elementary Statistics course (STT 200)
         * Graded the upper level Statistics courses
 ---
