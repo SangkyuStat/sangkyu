@@ -19,7 +19,7 @@ interests:
 - High-dimensional data analysis
 - Survival Analysis
 organizations:
-- name: "Department of Statistics and Probability,  Michigan State University"
+- name: "Department of Statistics and Probability," + "  Michigan State University"
   url: https://stt.natsci.msu.edu/
 role: PhD Student
 social:
