@@ -21,9 +21,8 @@ interests:
 organizations:
 - name: |2-
     
-    Department of Statistics and Probability
-    
-    Michigan State University
+  * Department of Statistics and Probability
+  * Michigan State University
   url: https://stt.natsci.msu.edu/
 role: PhD Student
 social:
