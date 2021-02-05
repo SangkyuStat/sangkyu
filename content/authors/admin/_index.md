@@ -11,7 +11,7 @@ education:
     year: 2019
   - course: B.A. in Applied Statistics
     institution: Konkuk University
-    year: 2017
+    year: 2016
 email: ""
 highlight_name: false
 interests:
@@ -19,7 +19,9 @@ interests:
 - High-dimensional data analysis
 - Survival Analysis
 organizations:
-- name: Department of Statistics and Probability <br/> Michigan State University
+- name: >
+  Department of Statistics and Probability
+  Michigan State University
   url: https://stt.natsci.msu.edu/
 role: PhD Student
 social:
