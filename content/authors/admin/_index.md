@@ -16,8 +16,8 @@ email: ""
 highlight_name: false
 interests:
 - Machine Learning
-- High-dimensional data analysis
-- Survival Analysis
+- High-dimensional statistics
+- Survival data Analysis
 organizations:
 - name: Michigan State University
   url: https://stt.natsci.msu.edu/
