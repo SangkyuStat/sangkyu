@@ -31,9 +31,9 @@ experience:
     description: |2-
         Projects (Data analyses) topics include:
         
-        * COVID-19
-        * Opioid abusement
-        * Medicaid
+        * COVID-19 data analysis
+        * Opioid data analysis
+        * Medicaid data analysis
         
   - title: Graduate Teaching Assistant
     company: Department of Statistics and Probability - Michigan State University

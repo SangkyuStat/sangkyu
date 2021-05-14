@@ -15,9 +15,9 @@ education:
 email: ""
 highlight_name: false
 interests:
-- Machine Learning
-- High-dimensional statistics
-- Survival data Analysis
+- Machine learning
+- High-dimensional variable selection
+- Quantile regression
 organizations:
 - name: Michigan State University
   url: https://stt.natsci.msu.edu/
@@ -35,7 +35,7 @@ superuser: true
 title: Sang Kyu Lee
 ---
 
-I am a PhD student in the Department of Statistics and Probability, Michigan State University. My research interests include machine learning, survival data analysis and longitudinal data analysis. I got my B.A and M.A. from Konkuk University, South Korea.
+I am a PhD student in the Department of Statistics and Probability, Michigan State University. My research interests  include machine learning, quantile regression and high-dimensional variable selection. I got my B.A and M.A. from Konkuk University, South Korea.
 
 
 {{< icon name="download" pack="fas" >}}You can download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
