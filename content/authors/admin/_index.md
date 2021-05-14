@@ -36,7 +36,7 @@ superuser: true
 title: Sang Kyu Lee
 ---
 
-I am a PhD student in the Department of Statistics and Probability, Michigan State University. My research interests  include machine learning, quantile regression, survival data anlalysis and high-dimensional data analysis. I got my B.A and M.A. from Konkuk University, South Korea.
+I am a PhD student in the Department of Statistics and Probability, Michigan State University. I am broadly interested about various statistical topics and programming but my research focuses on machine learning, quantile regression, survival data anlalysis and high-dimensional data analysis. I got my B.A and M.A. from Konkuk University, South Korea.
 
 
 {{< icon name="download" pack="fas" >}}You can download my CV {{< staticref "media/resume.pdf" "newtab" >}}here{{< /staticref >}}.
