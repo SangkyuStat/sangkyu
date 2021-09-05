@@ -1,10 +1,10 @@
 ---
 authors:
-- admin
 - Jae Ho Chang
+- admin
 - Hyoung-Moon Kim
 date: "2019-11-01T00:00:00Z"
-doi: "10.29220/CSAM.2019.26.6.583"
+doi: 
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
