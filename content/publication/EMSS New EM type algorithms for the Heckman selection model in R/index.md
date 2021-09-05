@@ -22,7 +22,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: EMSS: New EM-type algorithms for the Heckman selection model in R
+title: EMSS - New EM-type algorithms for the Heckman selection model in R
 url_code: ""
 url_dataset: ""
 url_pdf: ""
