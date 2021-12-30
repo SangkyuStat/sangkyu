@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*revision invited*'
+publication: '*The R Journal*, accepted'
 publication_short: ""
 publication_types:
 - "2"

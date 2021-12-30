@@ -11,7 +11,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*submitted*'
+publication: '*preparing*'
 publication_short: ""
 publication_types:
 - "2"
@@ -21,7 +21,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: New efficient estimator for Dirichlet distribution
+title: An Asymptotically Efficient Closed-form Estimator for the Dirichlet Distribution
 url_code: ""
 url_dataset: ""
 url_pdf: ""
