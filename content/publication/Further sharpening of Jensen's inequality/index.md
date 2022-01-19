@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Statistics*, accepted'
+publication: '*Statistics, 55*(5), 1154-1168'
 publication_short: ""
 publication_types:
 - "2"
