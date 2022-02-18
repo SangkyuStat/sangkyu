@@ -4,7 +4,7 @@ authors:
 - admin
 - Jun Zhao
 - Hyoung-Moon Kim
-date: "2021-09-01T00:00:00Z"
+date: "2022-02-17T00:00:00Z"
 doi: 
 featured: false
 image:
@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*The R Journal*, accepted'
+publication: '*The R Journal, 13*(2), 239-252'
 publication_short: ""
 publication_types:
 - "2"
