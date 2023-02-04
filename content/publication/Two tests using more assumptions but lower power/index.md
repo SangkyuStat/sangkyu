@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Communications for Statistical Applications and Methods, 30*(1)'
+publication: '*Communications for Statistical Applications and Methods, 30*(1), 109-117'
 publication_short: ""
 publication_types:
 - "2"
