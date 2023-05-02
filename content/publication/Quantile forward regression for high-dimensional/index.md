@@ -1,17 +1,19 @@
 ---
+
 authors:
-- Jae Ho Chang
+- Eun Ryung Lee
+- Seyoung Park
 - admin
-- Hyoung-Moon Kim
-date: "2023-02-04T00:00:00Z"
-doi: 
+- Hyokyong (Grace) Hong
+date: "2023-05-01T00:00:00Z"
+doi: https://doi.org/10.1080/02331888.2021.1998052
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*under review*'
+publication: '*under revision*'
 publication_short: ""
 publication_types:
 - "2"
@@ -21,7 +23,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An Asymptotically Efficient Closed-form Estimator for the Dirichlet Distribution
+title: Quantile forward regression for high-dimensional survival data
 url_code: ""
 url_dataset: ""
 url_pdf: ""
