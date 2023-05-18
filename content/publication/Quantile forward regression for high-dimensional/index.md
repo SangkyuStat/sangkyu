@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*under revision*'
+publication: '*Lifetime Data Analysis, accepted*'
 publication_short: ""
 publication_types:
 - "2"
