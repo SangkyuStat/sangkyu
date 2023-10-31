@@ -13,12 +13,13 @@ education:
     institution: Konkuk University
     year: 2016
 email: ""
-highlight_name: false
+highlight_name: true
 interests:
 - Machine learning
 - High-dimensional data analysis
 - Quantile regression
 - Survival data analysis
+- Disparity research
 organizations:
 - name: Michigan State University
   url: https://stt.natsci.msu.edu/
