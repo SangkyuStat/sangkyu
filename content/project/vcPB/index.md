@@ -4,7 +4,7 @@ external_link: https://sangkyustat.github.io/vcPB/
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: A package for for estimating the disparity between a majority group and minority group based on the extended model of the Peters-Belson method. Our model is the first extension of Peters-Belson method to the longitudinal data.
+summary: A package for for estimating the disparity between a majority group and minority group based on the extended model of the Peters-Belson method
 tags:
 - R
 - Peters-Belson

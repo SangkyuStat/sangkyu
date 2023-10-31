@@ -31,8 +31,7 @@ experience:
     description: |2-
         Projects (Data analyses) topics include:
         
-        * Malaria data analysis
-        * Disparity analysis
+        * Disparity researches related to cancer and other biological related survival, longitudinal and complex data
     
   - title: Graduate Research Assistant
     company: Institute for Health Policy - Michigan State University
