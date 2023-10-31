@@ -6,12 +6,8 @@ education:
   - course: Ph.D. in Statistics
     institution: Michigan State University
     year: Current
-  - course: M.A. in Statistics
+  - course: B.A. and M.S. in Statistics
     institution: Konkuk University
-    year: 2019
-  - course: B.A. in Applied Statistics
-    institution: Konkuk University
-    year: 2016
 email: ""
 highlight_name: true
 interests:
