@@ -24,7 +24,7 @@ organizations:
   url: https://stt.natsci.msu.edu/
 - name: National Cancer Institute
   url: https://dceg.cancer.gov/fellowship-training/fellowship-experience/meet-fellows/bb/lee-sang-kyu
-role: PhD Candidate \n Predoctoral Fellow
+role: "PhD Candidate \n Predoctoral Fellow"
 social:
 - icon: envelope
   icon_pack: fas
