@@ -36,7 +36,7 @@ superuser: true
 title: Sang Kyu Lee
 ---
 
-I am a PhD candidate in the Department of Statistics and Probability, Michigan State University and also a predoctoral fellow in National Cancer Institute, NIH. I am broadly interested about various statistical topics and programming but my research focuses on machine learning, quantile regression, survival data anlalysis and high-dimensional data analysis. I got my B.A and M.A. from Konkuk University, South Korea.
+I am a PhD candidate in the Department of Statistics and Probability, Michigan State University and also a predoctoral fellow in the Biostatistics Branch of DCEG at National Cancer Institute, NIH. I am broadly interested about various statistical topics and programming but my research focuses on machine learning, quantile regression, survival data anlalysis and high-dimensional data analysis. I got my B.A and M.A. from Konkuk University, South Korea.
 
 
 {{< icon name="download" pack="fas" >}}You can download my CV {{< staticref "media/resume.pdf" "newtab" >}}here{{< /staticref >}}.
