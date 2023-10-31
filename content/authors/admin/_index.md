@@ -16,6 +16,7 @@ interests:
 - Quantile regression
 - Survival data analysis
 - Disparity research
+- Multivariate data analysis
 organizations:
 - name: Michigan State University
   url: https://stt.natsci.msu.edu/
