@@ -1,6 +1,6 @@
 ---
 date: "2023-10-01T00:00:00Z"
-external_link: https://cran.r-project.org/web/packages/EMSS/index.html
+external_link: https://sangkyustat.github.io/vcPB/
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
