@@ -5,7 +5,7 @@ authors:
 - Seyoung Park
 - admin
 - Hyokyong (Grace) Hong
-date: "2023-05-01T00:00:00Z"
+date: "2023-07-01T00:00:00Z"
 doi: "https://doi.org/10.1007/s10985-023-09603-w"
 featured: false
 image:
@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Lifetime Data Analysis, accepted*'
+publication: '*Lifetime Data Analysis, 29*, 769-806'
 publication_short: ""
 publication_types:
 - "2"
