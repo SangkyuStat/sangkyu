@@ -3,7 +3,7 @@ authors:
 - Jae Ho Chang
 - admin
 - Hyoung-Moon Kim
-date: "2023-02-04T00:00:00Z"
+date: "2023-11-1T00:00:00Z"
 doi: 
 featured: false
 image:
@@ -11,7 +11,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*under review*'
+publication: '*Stat*, accepted'
 publication_short: ""
 publication_types:
 - "2"

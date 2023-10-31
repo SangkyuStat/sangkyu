@@ -3,6 +3,6 @@ cms_exclude: true
 header:
   caption: ""
   image: ""
-title: Publications (published)
+title: Publications
 view: 4
 ---
