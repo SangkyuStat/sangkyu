@@ -16,7 +16,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*submitted*'
+publication: '*minor revision invited*'
 publication_short: ""
 publication_types:
 - "2"
