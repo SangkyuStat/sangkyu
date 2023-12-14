@@ -4,14 +4,14 @@ authors:
 - admin
 - Hyoung-Moon Kim
 date: "2023-12-13T00:00:00Z"
-doi: 
+doi: "https://doi.org/10.1002/sta4.640"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Stat*, 12(1), e640'
+publication: '*Stat, 12(1)*, e640'
 publication_short: ""
 publication_types:
 - "2"
