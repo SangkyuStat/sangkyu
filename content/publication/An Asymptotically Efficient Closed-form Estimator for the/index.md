@@ -11,7 +11,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Stat, 12(1)*, e640'
+publication: '*Stat, 12*(1), e640'
 publication_short: ""
 publication_types:
 - "2"
