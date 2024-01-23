@@ -24,11 +24,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - date_end: ""
-  date_start: "2024-01-01"
-  description: ""
+  date_start: "2024-08-01"
+  description: "*Winner* of the ASA Statistics in Epidemiology Section Student Paper Competition"
   organization: American Statistical Association
   organization_url: https://www.coursera.org
-  title: Winner of the Statistics in Epidemiology Section Student Paper Competition 
+  title: Early Career Award (Best Student Paper Competition Award)
   url: ""
 # - certificate_url: https://www.edx.org
 #   date_end: ""
