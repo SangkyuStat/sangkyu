@@ -9,7 +9,7 @@ authors:
 - William Harris Green
 - Armand B. Cognetta
 date: "2024-01-06T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.jaad.2024.01.010"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
