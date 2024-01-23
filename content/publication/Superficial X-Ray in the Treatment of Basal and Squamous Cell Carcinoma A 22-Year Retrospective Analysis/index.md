@@ -8,7 +8,7 @@ authors:
 - Hyokyoung G. Hong
 - William Harris Green
 - Armand B. Cognetta
-date: "2023-12-31T00:00:00Z"
+date: "2024-01-06T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -16,7 +16,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*minor revision invited*'
+publication: '*Journal of the American Academy of Dermatology, In press*'
 publication_short: ""
 publication_types:
 - "2"
