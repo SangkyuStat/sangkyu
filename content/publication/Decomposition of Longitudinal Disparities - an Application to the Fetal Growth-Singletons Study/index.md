@@ -25,7 +25,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: Decomposition of Longitudinal Disparities: an Application to the Fetal Growth-Singletons Study Analysis
+title: Decomposition of Longitudinal Disparities - an Application to the Fetal Growth-Singletons Study Analysis
 url_code: ""
 url_dataset: ""
 url_pdf: ""
