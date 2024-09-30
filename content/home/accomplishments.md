@@ -28,7 +28,7 @@ item:
   description: "*Winner* of the ASA Statistics in Epidemiology Section Student Paper Competition"
   organization: American Statistical Association
   organization_url: https://www.coursera.org
-  title: Early Career Award (Best Student Paper Competition Award)
+  title: Early Career Award (Best Student/Junior Researcher Paper Competition Award)
   url: ""
 # - certificate_url: https://www.edx.org
 #   date_end: ""
