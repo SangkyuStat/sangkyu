@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Predoctoral Fellow
-    company: National Cancer Institute (NCI) - National Institute of Health (NIH)
+  - title: Postdoctoral Fellow
+    company: National Cancer Institute (NCI) - National Institutes of Health (NIH)
     company_url: ''
     location: Rockville
     date_start: '2022-09-07'
