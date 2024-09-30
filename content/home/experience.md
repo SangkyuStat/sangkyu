@@ -26,12 +26,25 @@ experience:
     company: National Cancer Institute (NCI) - National Institutes of Health (NIH)
     company_url: ''
     location: Rockville
-    date_start: '2022-09-07'
+    date_start: '2024-09-07'
     date_end: ''
-    description: |2-
-        Projects (Data analyses) topics include:
-        
-        * Disparity researches related to cancer and other biological related survival, longitudinal and complex data
+
+#    description: |2-
+#        Projects (Data analyses) topics include:
+#        
+#        * Disparity researches related to cancer and other biological related survival, longitudinal and complex data
+  
+  - title: Predoctoral Fellow
+    company: National Cancer Institute (NCI) - National Institutes of Health (NIH)
+    company_url: ''
+    location: Rockville
+    date_start: '2022-09-07'
+    date_end: '2024-09-06'
+    
+#    description: |2-
+#        Projects (Data analyses) topics include:
+#        
+#        * Disparity researches related to cancer and other biological related survival, longitudinal and complex data
     
   - title: Graduate Research Assistant
     company: Institute for Health Policy - Michigan State University
@@ -39,12 +52,13 @@ experience:
     location: East Lansing
     date_start: '2019-10-01'
     date_end: '2022-09-06'
-    description: |2-
-        Projects (Data analyses) topics include:
-        
-        * COVID-19 data analysis
-        * Opioid data analysis
-        * Medicaid data analysis
+
+#    description: |2-
+#        Projects (Data analyses) topics include:
+#        
+#        * COVID-19 data analysis
+#        * Opioid data analysis
+#        * Medicaid data analysis
         
   - title: Graduate Teaching Assistant
     company: Department of Statistics and Probability - Michigan State University
@@ -52,8 +66,9 @@ experience:
     location: East Lansing
     date_start: '2019-08-31'
     date_end: '2020-12-31'
-    description: |2-
-    
-        * Taught the elementary Statistics course (STT 200)
-        * Graded the upper level Statistics courses
+
+#    description: |2-
+#    
+#        * Taught the elementary Statistics course (STT 200)
+#        * Graded the upper level Statistics courses
 ---
