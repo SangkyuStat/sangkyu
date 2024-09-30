@@ -19,7 +19,7 @@ interests:
 organizations:
 - name: National Cancer Institute
   url: https://dceg.cancer.gov/fellowship-training/fellowship-experience/meet-fellows/bb/lee-sang-kyu
-role: Predoctoral Fellow
+role: Postdoctoral Fellow
 social:
 - icon: envelope
   icon_pack: fas
