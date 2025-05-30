@@ -33,7 +33,7 @@ superuser: true
 title: Sang Kyu Lee
 ---
 
-<h2 style="color:red;">I don't use this homepage anymore, please visit my new homepage <a href="https://sangkyustat.github.io/">here</a>.</h2>
+<p style="color:red;">I don't use this homepage anymore, please visit my new homepage <a href="https://sangkyustat.github.io/">here</a>.</p>
 
 I am a Postdoctoral fellow in the Biostatistics Branch of DCEG at the National Cancer Institute, NIH. I am broadly interested about various statistical topics and programming but my research focuses on machine learning, quantile regression, survival data anlalysis, health disparity analysis and high-dimensional data analysis. 
 
